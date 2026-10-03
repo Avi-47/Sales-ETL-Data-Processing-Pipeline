@@ -1,0 +1,25 @@
+# 🔥 Virtual Environment
+venv/
+
+# 🔥 Python cache
+__pycache__/
+*.pyc
+
+# 🔥 Database files
+*.db
+
+# 🔥 Logs
+logs/
+
+# 🔥 Reports (auto-generated)
+reports/
+
+# 🔥 Data files (ignore all CSVs, keep only sample if needed)
+data/*.csv
+
+# 🔥 VS Code settings (optional)
+.vscode/
+
+# 🔥 OS-specific files
+.DS_Store
+Thumbs.db
